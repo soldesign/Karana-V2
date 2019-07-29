@@ -21,7 +21,7 @@ completely open-source and allows for an easy development process due to it's mo
 ## Features
 *  Open-Source: released under the GNU GPL V3 licence.
 *  Cheap yet powerful: based on STM32 microcontrollers
-*  Easy to adapt: thanks to the modularized software structure, adapting or extending its functionality is relatively easy. More on that [here](System-Architecture).
+*  Easy to adapt: thanks to the modularized software structure, adapting or extending its functionality is relatively easy. More on that in the [wiki](https://github.com/soldesign/Karana-V2/wiki).
 *  IoT: sends logged data to a InfluxDB database via GPRS
 *  Controlling: it supports zero-downtime, real-time controlling implementations. 
 *  Local buffering: for diminished power consumption and increased reliability in areas with poor network coverage, the data is buffered locally 
